@@ -1,3 +1,6 @@
 ### Chris Pines - Learn to Program
 
-*Exercises in the Ruby programming language*
+**_Exercises in the Ruby programming language_**
+
+
+![Alt text]( "fizzbuzz")
